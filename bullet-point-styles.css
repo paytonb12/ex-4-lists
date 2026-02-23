@@ -1,0 +1,16 @@
+.bullet-point-styles{
+    list-style-type: square;
+}
+.upper-case-letter-list{
+    list-style-type: upper-alpha;
+}
+
+.planets ul{
+    list-style-type: none;
+    
+}
+
+.solar-system-content {
+    list-style-type: none;
+}
+
